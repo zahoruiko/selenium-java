@@ -1,2 +1,1 @@
-# Selenium WebDriver test examples
-Selenium Webdriver test examples
+# Testing examples using Selenium Webdriver
